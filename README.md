@@ -13,3 +13,8 @@
     - シューが縦回転する
     - (ゲームに関係ないけど)BGMのピッチを上げる
     - etc...
+
+## 使用素材
+シュークリーム:
+https://tsukatte.com/chou-a-la-creme/
+

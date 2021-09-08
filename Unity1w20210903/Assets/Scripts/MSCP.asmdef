@@ -1,0 +1,25 @@
+{
+    "name": "MSCP",
+    "rootNamespace": "",
+    "references": [
+        "DOTween.Modules",
+        "UniRx",
+        "UniTask",
+        "UniTask.Addressables",
+        "UniTask.DOTween",
+        "UniTask.Linq",
+        "Unity.Addressables",
+        "Unity.Mathematics",
+        "Unity.ResourceManager",
+        "Unity.ScriptableBuildPipeline"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
